@@ -8,7 +8,7 @@ Audio developer from Spain. Building devices in **Max for Live** since Ableton f
 
 #### 🎛️ Featured projects
 
-- **[Nomad2026](https://github.com/animatek/Nomad2026)** — Modern JUCE/C++ reimplementation of the Nomad editor for the Clavia Nord Modular G1 synthesizer.
+- **[Animatek-NME](https://github.com/animatek/Animatek-NME)** — Modern JUCE/C++ reimplementation of the Nomad editor for the Clavia Nord Modular G1 synthesizer.
 - **[UZZ-VCV-RACK](https://github.com/animatek/UZZ-VCV-RACK)** — VCV Rack devices.
 - **[atk-tools](https://github.com/animatek/atk-tools)** — Abstractions for Max & Max for Live.
 - **[macbook-bcm43602-linux](https://github.com/animatek/macbook-bcm43602-linux)** — WiFi fix for MacBook Pro 14,3 on Linux.
