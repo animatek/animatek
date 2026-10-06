@@ -6,9 +6,14 @@ Audio developer from Spain. Building devices in **Max for Live** since Ableton f
 
 ---
 
+#### 🎹 Nord Modular G1
+
+- **[Animatek-NME](https://github.com/animatek/Animatek-NME)** — Modern JUCE/C++ reimplementation of the Nomad editor for the Clavia Nord Modular G1 synthesizer. Several synths at once, and it talks directly to G1-Emu. ![stars](https://img.shields.io/github/stars/animatek/Animatek-NME?style=flat&label=&color=555)
+- **[G1-Emu](https://github.com/animatek/G1-Emu)** — Nord Modular G1 emulator on the Gearmulator core: the original OS runs on an emulated 68331 and DSP56303s, playable from Animatek NME. Linux, macOS and Windows. Pre-alpha, and collaborators are very welcome. ![stars](https://img.shields.io/github/stars/animatek/G1-Emu?style=flat&label=&color=555)
+- **[nme-themes](https://github.com/animatek/nme-themes)** — Community colour themes for Animatek NME: small JSON files, no code. Pull requests welcome.
+
 #### 🎛️ Audio & music tech
 
-- **[Animatek-NME](https://github.com/animatek/Animatek-NME)** — Modern JUCE/C++ reimplementation of the Nomad editor for the Clavia Nord Modular G1 synthesizer. ![stars](https://img.shields.io/github/stars/animatek/Animatek-NME?style=flat&label=&color=555)
 - **[UZZ-VCV-RACK](https://github.com/animatek/UZZ-VCV-RACK)** — Module collection for VCV Rack. ![stars](https://img.shields.io/github/stars/animatek/UZZ-VCV-RACK?style=flat&label=&color=555)
 - **[rack-pipewire-driver](https://github.com/animatek/rack-pipewire-driver)** — Native PipeWire audio driver for VCV Rack v2 on Linux. No modules: it just adds a PipeWire entry to the audio device menu. ![stars](https://img.shields.io/github/stars/animatek/rack-pipewire-driver?style=flat&label=&color=555)
 - **[atk-tools](https://github.com/animatek/atk-tools)** — Abstractions for Max & Max for Live. ![stars](https://img.shields.io/github/stars/animatek/atk-tools?style=flat&label=&color=555)
@@ -35,7 +40,7 @@ Audio developer from Spain. Building devices in **Max for Live** since Ableton f
 
 #### 🛠️ Stack
 
-`C++` `JUCE` `Max/MSP` `Max for Live` `VCV Rack` `PipeWire` `TypeScript` `Python` `Shell` `Linux`
+`C++` `JUCE` `DSP emulation` `Max/MSP` `Max for Live` `VCV Rack` `PipeWire` `TypeScript` `Python` `Shell` `Linux`
 
 ---
 
