@@ -27,7 +27,7 @@ Audio developer from Spain. Building devices in **Max for Live** since Ableton f
 
 #### 🌐 Web & productivity
 
-- **[animatek-theme](https://github.com/animatek/animatek-theme)** — Official WordPress theme for animatek.net. TailPress base, Tailwind CSS v4 + Vite, deep Tutor LMS integration.
+- **[animatek-tailpress](https://github.com/animatek/animatek-tailpress)** — Official WordPress theme for animatek.net. TailPress base, Tailwind CSS v4 + Vite, deep Tutor LMS integration.
 
 <details>
 <summary>📚 Teaching material (archive)</summary>
